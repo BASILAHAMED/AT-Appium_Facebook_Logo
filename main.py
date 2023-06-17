@@ -13,7 +13,7 @@ desired_caps = {
     'platformName': 'Android',
     'deviceName': 'pixel_3a',
     'browserName': 'Chrome',
-    'chromedriverExecutable': 'C:\\Users\\sbasi\\chromedriver.exe'
+    'chromedriverExecutable': 'set driver path here'
 }
 
 # Initialize the webdriver
